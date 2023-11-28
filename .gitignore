@@ -1,3 +1,6 @@
+# DS Store automatically created by MacOS (I was told to add this by ChatGPT)
+.DS_STORE
+
 # Logs
 logs
 *.log
@@ -128,3 +131,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
